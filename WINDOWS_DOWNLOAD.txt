@@ -1,0 +1,14 @@
+WINDOWS DOWNLOAD INSTRUCTIONS
+
+Once the transfer branch has been uploaded to the approved GitHub repository:
+1. Sign into GitHub with an account that can access the repository.
+2. Open the repository and select the video-delivery branch.
+3. Choose Code, then Download ZIP.
+4. In Windows Downloads, right-click the ZIP and choose Extract All.
+5. Open From_Vision_to_Reality_Final_720p.mp4 in the extracted folder.
+
+Optional: In PowerShell, run Get-FileHash -Algorithm SHA256 on the MP4.
+Expected SHA256: 9204dff49a0fc944d63542bcc956416ba9e5379d5adbe5438ac226060122abef
+
+This is the existing, validated 60-second MP4, not a re-render.
+Format: 1280x720, 16:9, 30fps, H.264 Main with AAC LC stereo.
