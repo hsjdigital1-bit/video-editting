@@ -1,0 +1,9 @@
+Updated film: From_Vision_to_Reality_Updated_720p.mp4
+75 seconds,1280x720,16:9,30fps,H.264 Main/AAC LC stereo.
+Includes the 3D opening from source00:00 and completed-shop opening from source00:00.
+Completed-shop footage uses new higher-quality original1+original2 parts.
+Features a new original instrumental soundtrack. No photos.
+The previous release remains available.
+
+Windows: open this MP4 on GitHub and choose Download raw file, or use the direct raw URL provided in chat.
+SHA256: 1329bfe183e94c183cb6bf2d04b99801fddfa851f9dd3ca6fcf4c4db2391fd2c
